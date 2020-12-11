@@ -1,0 +1,54 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JoinTable:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JoinTable_jar</output-path>
+    <root id="archive" name="JoinTable.jar">
+      <element id="module-output" name="JoinTable" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/client/hadoop-client-api-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/client/hadoop-client-runtime-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/client/hadoop-client-minicluster-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/common/hadoop-kms-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/common/hadoop-nfs-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/common/hadoop-common-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/common/hadoop-common-3.2.1-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/hdfs/hadoop-hdfs-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/hdfs/hadoop-hdfs-nfs-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/hdfs/hadoop-hdfs-rbf-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/hdfs/hadoop-hdfs-3.2.1-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/hdfs/hadoop-hdfs-client-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/hdfs/hadoop-hdfs-httpfs-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/hdfs/hadoop-hdfs-rbf-3.2.1-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/hdfs/hadoop-hdfs-client-3.2.1-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/hdfs/hadoop-hdfs-native-client-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/hdfs/hadoop-hdfs-native-client-3.2.1-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-examples-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-app-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-core-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-common-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-shuffle-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-uploader-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-plugins-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-nativetask-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-3.2.1-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/yarn/hadoop-yarn-api-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/yarn/hadoop-yarn-client-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/yarn/hadoop-yarn-common-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/yarn/hadoop-yarn-registry-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/yarn/hadoop-yarn-submarine-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/yarn/hadoop-yarn-server-tests-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/yarn/hadoop-yarn-services-api-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/yarn/hadoop-yarn-server-common-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/yarn/hadoop-yarn-server-router-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/yarn/hadoop-yarn-services-core-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/yarn/hadoop-yarn-server-web-proxy-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/yarn/hadoop-yarn-server-nodemanager-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/yarn/hadoop-yarn-server-resourcemanager-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/yarn/hadoop-yarn-server-sharedcachemanager-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/yarn/hadoop-yarn-applications-distributedshell-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/yarn/hadoop-yarn-server-timeline-pluginstorage-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/yarn/hadoop-yarn-server-applicationhistoryservice-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/yarn/hadoop-yarn-applications-unmanaged-am-launcher-3.2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
