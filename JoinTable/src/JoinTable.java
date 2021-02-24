@@ -65,7 +65,7 @@ public class JoinTable {
             Text productInfo = new Text();
             List<Text> orders = new ArrayList<Text>();
 
-            for(Text text: values) {
+            for(Text text: values) {ahoi
                String[] record = text.toString().split(" ");
                int len = record.length;
                if(len == 3) {
